@@ -1,2 +1,2 @@
 # ChronostasisClock
-[「この時計，見ている人の時間をほんの少し引き伸ばすんだぜ…」](https://kzkponkotu.github.io/ChronostasisClock/)
+[「1秒」を少し長くする時計](https://kzkponkotu.github.io/ChronostasisClock/)
