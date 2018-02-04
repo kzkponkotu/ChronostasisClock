@@ -26,12 +26,18 @@ function windowResized() {
 
 function draw() {
     if (second() % 15 == 0) {
-        stroke(255);
+        stroke(0);
+        fill(0, 0, 0, 50);
+        rect(0, 0, windowWidth, windowHeight);
         background(0);
+        stroke(255);
         chronostasis = true;
     } else {
+        stroke(255);
+        fill(255, 255, 255, 50);
+        rect(0, 0, windowWidth, windowHeight);
+        //background(0);
         stroke(0);
-        background(255);
         chronostasis = false;
     }
     push();
