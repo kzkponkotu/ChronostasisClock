@@ -36,7 +36,7 @@ function draw() {
         stroke(255);
         fill(255, 255, 255, 50);
         rect(0, 0, windowWidth, windowHeight);
-        //background(0);
+        //background(255);
         stroke(0);
         chronostasis = false;
     }
